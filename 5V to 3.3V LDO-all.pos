@@ -1,0 +1,15 @@
+### Footprint positions - created on 2026-09-18T00:29:44 ###
+### Printed by KiCad version 10.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val             Package                               PosX       PosY       Rot  Side
+C1        0.1uF           C_0805_2012Metric                 137.0500  -102.4750    0.0000  top
+C2        100uF           C_0805_2012Metric                 137.0500  -104.6850    0.0000  top
+C3        0.1uF           C_0805_2012Metric                 142.2100   -98.6750  -90.0000  top
+C4        100uF           C_0805_2012Metric                 140.0000   -98.6750  -90.0000  top
+D1        LED             LED_D5.0mm                        144.4000  -102.4000  -90.0000  top
+J1        Conn_01x02_Pin  PinHeader_1x02_P2.54mm_Vertical   136.2000  -107.6000   90.0000  top
+J2        Conn_01x02_Pin  PinHeader_1x02_P2.54mm_Vertical   145.2000   -96.0000    0.0000  top
+R1        68              R_0805_2012Metric                 140.0000  -102.2000   90.0000  top
+U1        AMS1117-3.3     SOT-223-3_TabPin2                 134.4000   -97.6000  180.0000  top
+## End

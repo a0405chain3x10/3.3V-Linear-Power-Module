@@ -4,9 +4,11 @@
 This repository contains the KiCad design files for a custom 5V to 3.3V power delivery network. Built around the AMS1117-3.3 Low-Dropout (LDO) regulator, this module is designed to provide stable, filtered power for mixed-signal microcontrollers by implementing both high-frequency and bulk decoupling strategies. 
 
 ## Visuals
-<img width="1712" height="896" alt="5V to 3 3V LDO" src="https://github.com/user-attachments/assets/c4b1e5a8-5180-40d1-bf7e-27b882373562" />
+<img width="1723" height="921" alt="5V to 3 3V LDO" src="https://github.com/user-attachments/assets/a3bf1a85-4cb0-4a2e-8790-61d559ebeda8" />
 <br>
 <img width="1548" height="824" alt="image" src="https://github.com/user-attachments/assets/4257f85b-7969-4c97-af3f-d91f6fa15fa2" />
+<img width="1723" height="921" alt="5V_to_3_3V_LDO" src="https://github.com/user-attachments/assets/67e25411-3177-4cc8-a4da-dc213dfbabb3" />
+
 
 *(Note: Ensure image files are uploaded to the root of the repository so these links render correctly)*
 
